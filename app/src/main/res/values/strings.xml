@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExemploSQLITEDB</string>
+    <string name="empty_not_saved" />
+</resources>
